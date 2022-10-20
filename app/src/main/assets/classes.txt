@@ -1,0 +1,9 @@
+instruction_children
+instruction_crosswalk
+instruction_cycleOnly
+instruction_peopleOnly
+instruction_pwCombined
+instruction_pwSeparated
+caution_slow
+restriction_speed20
+restriction_speed30
